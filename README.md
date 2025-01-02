@@ -21,7 +21,7 @@ This folder contains scripts for identifying key genes in both PFC and BM datase
 
 *   NC analysis:
     *   Correlation calculation: `PFC_NC_calculate_correlation.py` (PFC) and `BM_NC_calculate_correlation.py` (BM).
-    *   FDR significance testing: `PFC_NC_FDR_significance_negative.py` (PFC) and `BM_NC_FDR_significance_negative.R` (BM).
+    *   FDR significance testing: `PFC_NC_FDR_significance_negative.R` (PFC) and `BM_NC_FDR_significance_negative.R` (BM).
 *   DVR implementation: `PFC_calculate_DVR.py` (PFC) and `BM_calculate_DVR.py` (BM).
 
 **3. RECNE_Nearest_Gene_Analysis**
