@@ -22,7 +22,7 @@ This folder contains scripts for identifying key genes using NC and DVR strategi
 *   NC analysis:
     *   Correlation calculation: `NC_calculate_correlation.py`.
     *   FDR significance testing: `NC_FDR_significance_negative.R`.
-*   DVR implementation: `Calculate_DVR.py`.
+*   DVR analysis: `Calculate_DVR.py`.
 
 **3. RECNE_Nearest_Gene_Analysis**
 
